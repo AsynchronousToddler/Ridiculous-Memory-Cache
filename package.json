@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/AsynchronousToddler/Ridiculous-Memory-Cache/issues"
   },
-  "homepage": "https://github.com/AsynchronousToddler/Ridiculous-Memory-Cache#readme"
+  "homepage": "https://github.com/AsynchronousToddler/Ridiculous-Memory-Cache#readme",
+  "devDependencies": {
+    "eslint": "^5.0.0",
+    "eslint-plugin-prettier": "^2.6.1",
+    "prettier": "^1.13.5"
+  }
 }
