@@ -1,0 +1,24 @@
+{
+  "name": "ridiculous-memory-cache",
+  "version": "0.1.0",
+  "description": "A Memory Cache for Node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsynchronousToddler/Ridiculous-Memory-Cache.git"
+  },
+  "keywords": [
+    "memory",
+    "cache",
+    "caching"
+  ],
+  "author": "Lia <30539548+AsynchronousToddler@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AsynchronousToddler/Ridiculous-Memory-Cache/issues"
+  },
+  "homepage": "https://github.com/AsynchronousToddler/Ridiculous-Memory-Cache#readme"
+}
